@@ -4,33 +4,36 @@ import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "users") // Matches your ERD table name [cite: 90]
+@Table(name = "users")
 public class User {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id; // bigint, PK Primary Key [cite: 75, 76, 104]
+    private Long id;
 
     @Column(unique = true, nullable = false)
-    private String email; // string, UK Unique, Not Null [cite: 77, 78, 105]
+    private String email;
 
     @Column(name = "password_hash", nullable = false)
-    private String passwordHash; // string, BCrypt Encrypted [cite: 79, 80, 106]
+    private String passwordHash;
+
+    // ADD THIS FIELD: This lets React send "password" without breaking the model
+    @Transient
+    private String password;
 
     @Column(name = "first_name")
-    private String firstName; // string [cite: 81, 82]
+    private String firstName;
 
     @Column(name = "last_name")
-    private String lastName; // string [cite: 83, 84]
+    private String lastName;
 
     @Column(nullable = false)
-    private String role = "USER"; // string, Default USER [cite: 85, 86, 107]
+    private String role = "USER";
 
     @Column(name = "created_at", nullable = false, updatable = false)
-    private LocalDateTime createdAt = LocalDateTime.now(); // timestamp 
+    private LocalDateTime createdAt = LocalDateTime.now();
 
-    // --- Getters and Setters ---
-    // You can generate these in IntelliJ: Right-click -> Generate -> Getter and Setter
+    // --- Updated Getters and Setters ---
 
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
@@ -40,6 +43,10 @@ public class User {
 
     public String getPasswordHash() { return passwordHash; }
     public void setPasswordHash(String passwordHash) { this.passwordHash = passwordHash; }
+
+    // New Getter/Setter for the incoming password from React
+    public String getPassword() { return password; }
+    public void setPassword(String password) { this.password = password; }
 
     public String getFirstName() { return firstName; }
     public void setFirstName(String firstName) { this.firstName = firstName; }
