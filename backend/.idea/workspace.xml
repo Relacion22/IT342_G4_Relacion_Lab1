@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60808203-75c7-41de-9249-eb1657771917" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/RelacionLab1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASKLIST.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TASKLIST.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__com_fasterxml_classmate_1_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__com_zaxxer_HikariCP_7_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_25_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_eclipse_angus_angus_activation_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_hibernate_models_hibernate_models_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_7_2_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_6_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_data_commons_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_data_jpa_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_hibernate_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_jdbc_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_jpa_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_persistence_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_security_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_sql_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_boot_spring_boot_transaction_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_data_spring_data_commons_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_security_spring_security_config_7_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_security_spring_security_core_7_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_7_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_security_spring_security_web_7_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_spring_aspects_7_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_spring_jdbc_7_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_spring_orm_7_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/.idea/libraries/Maven__org_springframework_spring_tx_7_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/service/AuthService.java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/java/com/example/Relacion_lab1/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Relacion_lab1/Relacion_lab1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/miniapp-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/miniapp-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/miniapp-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../web/miniapp-frontend/src/App.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="39W5iw8uyoD59tqgheDh4Bdo88D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/L13X16W33/Documents/IT342_G4_Relacion_Lab1/backend&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60808203-75c7-41de-9249-eb1657771917" name="Changes" comment="" />
+      <created>1770799116449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770799116449</updated>
+    </task>
+    <servers />
+  </component>
+</project>
